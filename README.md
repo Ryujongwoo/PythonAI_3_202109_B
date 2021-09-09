@@ -5,7 +5,7 @@
 pip uninstall pyzmq -y  
 pip install pyzmq==19.0.2
 ***
-## jupyter notebook 화면 설정 방법  
+# jupyter notebook 화면 설정 방법  
 C:\사용자\\<사용자ID>\\.jupyter 폴더에 쥬피터 노트북 설정이 있다.  
 그 아래에 custom 이라는 이름의 폴더를 만들고, 그 아래에 custom.css 라는 파일을 복사해 넣는다.
 
